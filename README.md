@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Albatorse
+- 👋 Hi, I’m @Albator
 - 👀 I’m interested in  learning
-- 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on life
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me anandhuas025@gmail.com
 
 <!---
